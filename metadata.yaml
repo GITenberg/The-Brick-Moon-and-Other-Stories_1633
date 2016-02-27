@@ -1,0 +1,32 @@
+_repo: The-Brick-Moon-and-Other-Stories_1633
+creator:
+  author:
+    agent_name: Hale, Edward Everett
+    aliases:
+    - Ingham, Frederic
+    - Darragh, J. Thomas
+    - Hale, Edward E.
+    - Hale, E. E. (Edward Everett)
+    birthdate: 1822
+    deathdate: 1909
+    gutenberg_agent_id: '650'
+    url: http://www.gutenberg.org/2009/agents/650
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Everett_Hale
+description: ''
+gutenberg_issued: '1999-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+tableOfContents: The brick moon -- Crusoe in New York -- Bread on the waters -- The
+  lost palace -- 99 Linwood Street -- Ideals -- Thanksgiving at the polls -- The survivor's
+  story
+title: The Brick Moon, and Other Stories
+url: http://www.gutenberg.org/ebooks/1633
