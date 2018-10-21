@@ -1,5 +1,5 @@
 _repo: The-Brick-Moon-and-Other-Stories_1633
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,6 +31,7 @@ subjects:
 - !lcc 'PS'
 - !lcsh 'Short stories'
 - !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
 tableOfContents: The brick moon -- Crusoe in New York -- Bread on the waters -- The
   lost palace -- 99 Linwood Street -- Ideals -- Thanksgiving at the polls -- The survivor's
   story
